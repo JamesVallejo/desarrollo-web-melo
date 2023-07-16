@@ -11,6 +11,7 @@ body {
 button {
     background-color: #0a0a23;
     color: #f5f6f7;
+    font-family: Tahoma;
 }
 
 h1, p {
